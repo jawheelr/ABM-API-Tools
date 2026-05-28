@@ -1,4 +1,4 @@
-# 🍎 Apple Business Manager Device Action Tool
+# 🍎 Apple Business Device Action Tool
 
 A macOS-based administrative utility for managing Apple Business Manager (ABM) device assignments and releases using Apple Business Manager APIs and Jamf Pro APIs.
 
