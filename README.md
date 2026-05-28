@@ -388,4 +388,4 @@ MIT License
 
 Use at your own risk.
 
-## Releasing/disowning devices from Apple Business Manager is permanent and irreversible. Always validate device lists before processing large batches.
+## _Releasing/disowning devices from Apple Business Manager is permanent and irreversible. Always validate device lists before processing large batches._
