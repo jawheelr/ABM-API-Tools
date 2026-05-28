@@ -11,25 +11,6 @@ Built for Apple device administrators who need a fast, scalable, and user-friend
 
 ---
 
-## 🧱 Project Structure
-```
-.
-├── assets/
-│   └── images
-├── docs/
-│   └── usage.md
-├── examples/
-│   └── sample_run.md
-├── scripts/
-│   ├── Applications (coming soon?)
-│   ├── Windows (coming soon?)
-│   └── macOS
-│      └── abm-device-action-tool.sh
-└── README.md
-```
-
----
-
 # ✨ Features
 
 ## 🔓 ABM Device Unassign
@@ -306,6 +287,25 @@ The script provides:
 * Interactive progress windows
 * Clear error messaging
 * Final completion summary
+
+---
+
+## 🧱 Project Structure
+```
+.
+├── assets/
+│   └── images
+├── docs/
+│   └── usage.md
+├── examples/
+│   └── sample_run.md
+├── scripts/
+│   ├── Applications (coming soon?)
+│   ├── Windows (coming soon?)
+│   └── macOS
+│      └── abm-device-action-tool.sh
+└── README.md
+```
 
 ---
 
