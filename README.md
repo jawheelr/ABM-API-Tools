@@ -12,6 +12,7 @@ Built for Apple device administrators who need a fast, scalable, and user-friend
 ---
 
 ## 🧱 Project Structure
+```
 .
 ├── assets/
 │   └── images
@@ -25,6 +26,7 @@ Built for Apple device administrators who need a fast, scalable, and user-friend
 │   └── macOS
 │      └── abm-device-action-tool.sh
 └── README.md
+```
 
 ---
 
