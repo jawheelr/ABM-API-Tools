@@ -1,11 +1,11 @@
 # 🍎 Apple Business Device Action Tool
 
-A macOS-based administrative utility for managing Apple Business Manager (ABM) device assignments and releases using Apple Business Manager APIs and Jamf Pro APIs.
+A macOS-based administrative utility for managing Apple Business device assignments and releases using Apple Business APIs and Jamf Pro APIs.
 
 Built for Apple device administrators who need a fast, scalable, and user-friendly workflow for:
 
-* ✅ Unassigning devices from ABM MDM servers
-* ✅ Releasing (disowning) devices from Apple Business Manager through Jamf Pro
+* ✅ Unassigning devices from Apple Business MDM servers
+* ✅ Releasing (disowning) devices from Apple Business through Jamf Pro
 * ✅ Processing single serial numbers or bulk CSV imports
 * ✅ Using a modern SwiftDialog-based UI for operator workflows
 
@@ -13,9 +13,9 @@ Built for Apple device administrators who need a fast, scalable, and user-friend
 
 # ✨ Features
 
-## 🔓 ABM Device Unassign
+## 🔓 Apple Business Device Unassign
 
-Remove device assignments from an Apple Business Manager MDM server using the Apple Business API.
+Remove device assignments from an Apple Business MDM server using the Apple Business API.
 
 ### Includes:
 
@@ -32,7 +32,7 @@ Remove device assignments from an Apple Business Manager MDM server using the Ap
 
 ## 🗑️ Jamf Pro Device Release / Disown
 
-Release devices from Apple Business Manager using Jamf Pro’s Device Enrollment API integration.
+Release devices from Apple Business using Jamf Pro’s Device Enrollment API integration.
 
 ### Includes:
 
