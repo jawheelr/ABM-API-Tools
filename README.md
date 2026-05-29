@@ -25,6 +25,9 @@ Remove device assignments from an Apple Business Manager MDM server using the Ap
 * API payload construction
 * Serial normalization
 
+#### Requirements:
+* Apple Business MDM Server ID - found in the .p7m certificate
+
 ---
 
 ## 🗑️ Jamf Pro Device Release / Disown
