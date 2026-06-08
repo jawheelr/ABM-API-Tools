@@ -1,0 +1,25 @@
+#!/bin/bash
+
+########################################################
+# macOS App Launcher
+########################################################
+
+SCRIPT_DIR="$(cd "$(dirname "$0")/../Resources" && pwd)"
+SCRIPT="${SCRIPT_DIR}/main.sh"
+
+chmod +x "$SCRIPT"
+
+########################################################
+# Elevate If Needed
+########################################################
+
+if [[ "$EUID" -ne 0 ]]; then
+    osascript -e "do shell script \"$SCRIPT\" with administrator privileges"
+    exit 0
+fi
+
+########################################################
+# Execute Script
+########################################################
+
+exec "$SCRIPT"
